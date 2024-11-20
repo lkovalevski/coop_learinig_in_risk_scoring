@@ -1,4 +1,4 @@
-# Cooperative Learinig In Argentinian Risk Scoring Dataset
+# Cooperative Learning In Argentinian Risk Scoring Dataset
 
 
 Introduction
